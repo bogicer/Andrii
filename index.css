@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(51, 167, 224);
+    color: #ffffff;
+    margin: 0;
+}
+
+img {
+    width: 200px;
+    height: 160px;
+    display: block;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+h2  {
+    text-align:center;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1  {
+    font-family: Snell Roundhand, cursive;
+}
+h2  {
+    font-family: Snell Roundhand, cursive;
+}
+h3  {
+    font-family: Snell Roundhand, cursive;
+}
+
+img:hover{
+    width: 500px;
+    height: 300px;
+}
+
+img:hover{
+    box-shadow: 15px 20px 20px 0 red;
+}
+img {
+    width: 200px;
+    height: 160px;
+    border-radius: 30px;}
